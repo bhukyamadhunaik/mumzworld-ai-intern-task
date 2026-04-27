@@ -1,0 +1,137 @@
+[
+  {
+    "id": "p1",
+    "name": "Dino World Building Blocks Set",
+    "description": "A 150-piece building block set featuring colorful dinosaurs, trees, and landscape pieces. Great for motor skills and imaginative play.",
+    "price_aed": 120.0,
+    "age_min_months": 36,
+    "age_max_months": 84,
+    "categories": ["Toys", "Building Blocks", "Dinosaurs"]
+  },
+  {
+    "id": "p2",
+    "name": "Smart Touch Baby Piano",
+    "description": "Interactive piano with lights, animal sounds, and classical melodies. Features soft touch keys perfect for little hands.",
+    "price_aed": 85.0,
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "categories": ["Toys", "Musical Instruments", "Baby Toys"]
+  },
+  {
+    "id": "p3",
+    "name": "Luxury Baby Stroller X1",
+    "description": "Premium lightweight stroller with reversible seat, UPF 50+ canopy, and smooth suspension. Easy one-hand fold.",
+    "price_aed": 1499.0,
+    "age_min_months": 0,
+    "age_max_months": 48,
+    "categories": ["Gear", "Strollers"]
+  },
+  {
+    "id": "p4",
+    "name": "Organic Cotton Sleepsuit (Pack of 3)",
+    "description": "Ultra-soft, breathable 100% organic cotton sleepsuits with two-way zippers for easy diaper changes.",
+    "price_aed": 110.0,
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "categories": ["Clothing", "Sleepwear"]
+  },
+  {
+    "id": "p5",
+    "name": "Interactive Arabic Alphabet Tablet",
+    "description": "Educational tablet teaching Arabic letters, numbers, and basic words with fun songs and quizzes.",
+    "price_aed": 65.0,
+    "age_min_months": 24,
+    "age_max_months": 72,
+    "categories": ["Toys", "Educational", "Arabic"]
+  },
+  {
+    "id": "p6",
+    "name": "Giant T-Rex Plush Toy",
+    "description": "A 60cm tall soft T-Rex plush. Cuddly and safe with embroidered eyes.",
+    "price_aed": 150.0,
+    "age_min_months": 12,
+    "age_max_months": 120,
+    "categories": ["Toys", "Plush", "Dinosaurs"]
+  },
+  {
+    "id": "p7",
+    "name": "Deluxe Baby Care Gift Basket",
+    "description": "A beautiful basket containing organic baby wash, lotion, diaper cream, soft towels, and a plush bunny.",
+    "price_aed": 250.0,
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "categories": ["Gifts", "Bath & Body"]
+  },
+  {
+    "id": "p8",
+    "name": "STEM Robotics Kit for Beginners",
+    "description": "Build your own moving robot. Introduces basic mechanics and engineering concepts. Safe snap-together parts.",
+    "price_aed": 199.0,
+    "age_min_months": 72,
+    "age_max_months": 144,
+    "categories": ["Toys", "STEM", "Robotics"]
+  },
+  {
+    "id": "p9",
+    "name": "Silicone Feeding Set (Plate, Bowl, Spoon)",
+    "description": "BPA-free suction plates and bowls to prevent spills. Includes a soft silicone spoon for sore teething gums.",
+    "price_aed": 95.0,
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "categories": ["Feeding", "Tableware"]
+  },
+  {
+    "id": "p10",
+    "name": "Wooden Montessori Sorter Toy",
+    "description": "Classic wooden shape sorter with 12 colorful blocks. Helps develop hand-eye coordination and shape recognition.",
+    "price_aed": 75.0,
+    "age_min_months": 12,
+    "age_max_months": 48,
+    "categories": ["Toys", "Montessori", "Wooden Toys"]
+  },
+  {
+    "id": "p11",
+    "name": "Mother's Relaxing Spa Set",
+    "description": "A thoughtful gift for moms. Includes lavender bath salts, a soothing eye mask, and organic body butter.",
+    "price_aed": 180.0,
+    "age_min_months": null,
+    "age_max_months": null,
+    "categories": ["Gifts", "For Mom", "Bath & Body"]
+  },
+  {
+    "id": "p12",
+    "name": "Bedtime Storybook Collection (EN/AR)",
+    "description": "A set of 5 beautifully illustrated bilingual bedtime stories in English and Arabic.",
+    "price_aed": 130.0,
+    "age_min_months": 12,
+    "age_max_months": 84,
+    "categories": ["Books", "Bilingual"]
+  },
+  {
+    "id": "p13",
+    "name": "High Contrast Baby Gym",
+    "description": "Play mat with high contrast black, white, and red patterns. Includes dangling sensory toys to encourage reaching.",
+    "price_aed": 220.0,
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "categories": ["Toys", "Baby Gyms", "Sensory"]
+  },
+  {
+    "id": "p14",
+    "name": "Magnetic Tiles 100-Piece Set",
+    "description": "Colorful magnetic building tiles that snap together to create 3D structures. Promotes creativity.",
+    "price_aed": 280.0,
+    "age_min_months": 36,
+    "age_max_months": 144,
+    "categories": ["Toys", "Building Blocks"]
+  },
+  {
+    "id": "p15",
+    "name": "Premium Diaper Bag Backpack",
+    "description": "Stylish and functional diaper bag with insulated bottle pockets, changing pad, and stroller straps.",
+    "price_aed": 320.0,
+    "age_min_months": null,
+    "age_max_months": null,
+    "categories": ["Gear", "Diaper Bags", "For Mom"]
+  }
+]
