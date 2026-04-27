@@ -13,7 +13,8 @@ client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY")
 )
 
-MODEL_NAME = os.getenv("MODEL_NAME", "gpt-4o-mini") # Fallback to a common model
+# Using an explicitly FREE model on OpenRouter to ensure 0 billing!
+MODEL_NAME = os.getenv("MODEL_NAME", "meta-llama/llama-3.3-70b-instruct:free") 
 
 def execute_tool_call(tool_call) -> str:
     """Executes the requested tool call and returns the result as a JSON string."""
